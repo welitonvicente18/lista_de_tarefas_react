@@ -1,16 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Lista de Tarefas - React App
 
-Currently, two official plugins are available:
+Tista de tarefas desenvolvida com React. O objetivo do projeto é permitir que usuários adicionem, concluam e removam tarefas de forma simples e organizada.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 Funcionalidades
+✅ Adicionar novas tarefas
+✔️ Marcar tarefas como concluídas
+🗑️ Remover tarefas
+💾 Persistência de dados no LocalStorage
+🛠️ Tecnologias Utilizadas
+React
+JavaScript
+Tailwind
+HTML5
+📦 Instalação
 
-## React Compiler
+## Clone o repositório:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/seu-usuario/lista_de_tarefas_react.git
+```
 
-## Expanding the ESLint configuration
+## Acesse a pasta do projeto:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+cd lista_de_tarefas_react
+```
+
+## Instale as dependências:
+
+```bash
+npm install
+```
+
+## ▶️ Executando o Projeto
+
+```bash
+npm start
+```
+Este projeto está sob a licença MIT.
+👨‍💻 Autor
+Desenvolvido por Weliton Vicente
