@@ -3,6 +3,10 @@
 
 Tista de tarefas desenvolvida com React. O objetivo do projeto é permitir que usuários adicionem, concluam e removam tarefas de forma simples e organizada.
 
+## Acessar o projeto
+
+## https://lista-de-tarefas-react-indol.vercel.app
+
 🚀 Funcionalidades
 ✅ Adicionar novas tarefas
 ✔️ Marcar tarefas como concluídas
